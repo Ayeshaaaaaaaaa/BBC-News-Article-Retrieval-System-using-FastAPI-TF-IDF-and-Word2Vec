@@ -23,5 +23,5 @@ This project implements a news article retrieval system using dataset of BBC art
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/bbc-news-retrieval-system.git
+   https://github.com/Ayeshaaaaaaaaa/BBC-News-Article-Retrieval-System-using-FastAPI-TF-IDF-and-Word2Vec.git
    cd bbc-news-retrieval-system
